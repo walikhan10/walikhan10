@@ -19,6 +19,6 @@ I am a Computer Science and Business student at **The University of North Caroli
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walikhan10&layout=compact&langs_count=10&theme=nightowl)](https://github.com/walikhan10/github-readme-stats)     
 
-![Wali's github stats](https://github-readme-stats.vercel.app/api?username=walikhan10&show_icons=true&theme=nightowl)
+
 
 
