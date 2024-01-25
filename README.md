@@ -1,17 +1,15 @@
 ### Hi there 👋
 
-I am a Computer Science and Business student at **The University of North Carolina at Chapel Hill**.
+I am currently a Software Engineer at **Credera** and pursuing my Masters at **Georgia Tech**  in Computer Science
 
 
 🔭 I’m currently working on learning new technologies
 
-🌱 I’m currently learning React and Python
+🌱 I’m currently learning Python 
 
-🤔 I’m looking for help expanding knowledge in frontend development
+🤔 I’m looking for help expanding knowledge in Machine Learning 
 
-💬 Ask me about Data Science!
-
-📫 How to reach me: walikhan@live.unc.edu
+📫 How to reach me: wkhan54@gatech.com
 
 
 ## GitHub Overview
