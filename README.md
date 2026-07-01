@@ -11,11 +11,5 @@ I’m currently working at **Ansa Capital**, where I build data and product syst
 📫 How to reach me: [wkhan54@gatech.edu](mailto:wkhan54@gatech.edu)
 
 
-## GitHub Overview
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walikhan10&layout=compact&langs_count=10&theme=nightowl)](https://github.com/walikhan10/github-readme-stats)     
-
-
 
 
