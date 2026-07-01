@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-I am currently a Software Engineer at **Credera** and pursuing my Masters at **Georgia Tech**  in Computer Science
+I’m currently working at **Ansa Capital**, where I build data and product systems for venture investing. I’m also pursuing my Master’s in Computer Science at **Georgia Tech**.
 
+🔭 I’m currently working on data products, internal tools, and AI-powered workflows
 
-🔭 I’m currently working on learning new technologies
+🌱 I’m currently learning more about machine learning, NLP, and scalable data systems
 
-🌱 I’m currently learning Python 
+🤔 I’m looking to expand my knowledge in AI, venture tech, and product engineering
 
-🤔 I’m looking for help expanding knowledge in Machine Learning 
-
-📫 How to reach me: wkhan54@gatech.com
+📫 How to reach me: [wkhan54@gatech.edu](mailto:wkhan54@gatech.edu)
 
 
 ## GitHub Overview
